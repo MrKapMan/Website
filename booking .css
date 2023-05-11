@@ -1,0 +1,31 @@
+.btn-primary {
+    border-top: 1px solid #96d1f8;
+    background: #65c1d6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#fa0fa8), to(#65c1d6));
+    background: -webkit-linear-gradient(top, #fa0fa8, #65c1d6);
+    background: -moz-linear-gradient(top, #fa0fa8, #65c1d6);
+    background: -ms-linear-gradient(top, #fa0fa8, #65c1d6);
+    background: -o-linear-gradient(top, #fa0fa8, #65c1d6);
+    padding: 5.5px 11px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 12px;
+    font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+  .btn-primary:hover {
+      border-top-color: #234d87;
+      background: #234d87;
+      color: #ccc;
+      }
+      .btn-primary:active {
+      border-top-color: #1b435e;
+      background: #1b435e;
+      }
